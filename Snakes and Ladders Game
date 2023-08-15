@@ -1,0 +1,7 @@
+Snakes and Ladders Game
+Snakes and ladders, also known as Moksha Patam, is an ancient Indian board game for two or more players that is still considered a worldwide classic today. It’s played on a gridded game board with numbered squares. On the board, there are several “ladders” and “snakes,” each linking two distinct board squares. The dice value can either be provided by the user or it can be generated randomly. If after moving, the pointer points to the block where the ladder is, the pointer is directed to the top of the ladder. If unfortunately, the pointer points to the mouth of a snake after moving, the pointer is redirected to the tail of the snake.
+The objectives and rules of the game can be summarized as-
+
+Objective – Given a snake and ladder game, write a function that returns the minimum number of jumps to take the top or destination position.
+
+You can assume the dice you throw results in always favor of you, which means you can control the dice.
