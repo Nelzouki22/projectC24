@@ -1,0 +1,2 @@
+This system is built on the concept of booking bus tickets in advance. The user can check the bus schedule, book tickets, cancel reservations, and check the bus status board using this system. When purchasing tickets, the user must first enter the bus number, after which the system will display the entire number of bus seats along with the passengers’ names, and the user must then enter the number of tickets, seat number, and person’s name.
+We will be using arrays, if-else logic, loop statements, and various functions like login(), cancel(), etc. to implement the project.
