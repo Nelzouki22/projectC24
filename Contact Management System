@@ -1,0 +1,7 @@
+In this project, you can do the operations like add a new contact of a person with their name, phone number, address and email. Listing all the contacts which are stored in the contact file. You can also edit any contact’s name, mobile number, address and also delete any account you want.
+
+This project is as similar to a phonebook or electronic diary which are used to store the contacts of the persons. Only the difference is this is a basic c console based project.
+
+Here you can list the contacts by their name, address as well as email. The method of file handling is used for storing the data in the file.
+
+Now you can understand this project only after executing the source code. To download the source code click the download button below the projected image and automatically download will be begun.
